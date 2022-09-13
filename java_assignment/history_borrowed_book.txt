@@ -1,0 +1,2 @@
+b005,tp111111,JAVA_book_pics\b005.jpg,And Then There Were None,Fiction,29/03/2021,12/04/2021,29/03/2021,15/04/2021
+b004,tp222222,JAVA_book_pics\b004.jpg,The Girl with the Dragon Tattoo,Mystery,29/03/2021,12/04/2021,-,-

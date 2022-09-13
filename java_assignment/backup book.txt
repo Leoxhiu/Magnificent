@@ -1,0 +1,5 @@
+b001,JAVA_book_pics\b001.jpg,This Close To Okay,Fiction,Available
+b002,JAVA_book_pics\b002.jpg,Much Ado About You,Romance,Available
+b003,JAVA_book_pics\b003.jpg,The Upstairs House,Novel,Available
+b004,JAVA_book_pics\b004.jpg,The Girl with the Dragon Tattoo,Mystery,Available
+b005,JAVA_book_pics\b005.jpg,And Then There Were None,Mystery,Available
